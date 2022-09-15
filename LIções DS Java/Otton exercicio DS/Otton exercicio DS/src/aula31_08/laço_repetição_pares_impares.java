@@ -9,7 +9,7 @@ public class laço_repetição_pares_impares {
                 System.out.println(i +" Par");
                 
             }else {
-                System.out.println(i + "Ímpar");
+                System.out.println(i + " Ímpar");
             }
             
             
